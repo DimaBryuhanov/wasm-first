@@ -3,6 +3,7 @@ name = "hello-wasm"
 version = "0.1.0"
 authors = ["Dmitry Brook <dmitrii_bryuhanov@mail.ru>"]
 description = "A sample project with wasm-pack"
+repository = "https://github.com/DimaBryuhanov/wasm-first.git"
 license = "MIT/Apache-2.0"
 edition = "2018"
 
